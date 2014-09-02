@@ -1,6 +1,6 @@
 # Mengenal PHP dengan Laravel
 
-## Namespaces
+## Namespaces & Composer
 
 ### Point
 - use
@@ -10,6 +10,7 @@
 - http://php.net/manual/en/language.namespaces.php
 - http://daylerees.com/php-namespaces-explained
 - http://id-laravel.com/post/mengenal-namespace-menjelajah-milyaran-galaksi
+- https://getcomposer.org/doc/01-basic-usage.md#autoloading
 
 ## Classes & Objects
 ### Point
