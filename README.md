@@ -57,6 +57,7 @@
 
 ### Referensi
 - http://www.sitepoint.com/introspection-and-reflection-in-php/
+- https://leanpub.com/implementinglaravel/read
 - http://www.sitepoint.com/dependency-injection-laravels-ioc/
 - http://culttt.com/2014/03/24/exploring-laravels-ioc-container/
 - http://stackoverflow.com/questions/18562752/understanding-ioc-containers-and-dependency-injection
