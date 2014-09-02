@@ -44,6 +44,7 @@
 
 ### Referensi
 
+- https://medium.com/rebuilding-laravel/rebuilding-laravel-part-4-start-4225ecd07e5e
 - http://stackoverflow.com/questions/20311336/laravel-4-how-are-facades-resolved/
 - http://blog.joynag.net/2013/05/facades-in-laravel-4-and-static-methods-resolution/
 - http://stackoverflow.com/questions/17296224/laravel-4-container-class-share-function-closure-logic
@@ -62,6 +63,7 @@
 - https://code.tutsplus.com/tutorials/dependency-injection-huh--net-26903
 - http://stackoverflow.com/questions/24484782/what-is-laravel-ioc-container-in-simple-words
 - https://medium.com/laravel-indonesia/memahami-ioc-container-di-laravel-f19bec82b22
+- https://medium.com/rebuilding-laravel/rebuilding-laravel-part-2-application-40b26928e874
 - http://martinfowler.com/bliki/InversionOfControl.html
 - http://www.martinfowler.com/articles/injection.html
 - http://stackoverflow.com/questions/3058/what-is-inversion-of-control
