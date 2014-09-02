@@ -3,7 +3,7 @@
 ## Namespaces & Composer
 
 ### Point
-- use
+- **use** keyword
 - global namespaces
 
 ### Referensi
