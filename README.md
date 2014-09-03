@@ -8,7 +8,7 @@
 
 ### Referensi
 - http://php.net/manual/en/language.namespaces.php
-- http://daylerees.com/php-namespaces-explained
+- http://daylerees.com/codebright/the-primers
 - http://id-laravel.com/post/mengenal-namespace-menjelajah-milyaran-galaksi
 - https://getcomposer.org/doc/01-basic-usage.md#autoloading
 
