@@ -5,12 +5,14 @@
 ### Point
 - **use** keyword
 - global namespaces
+- auloading
 
 ### Referensi
 - http://php.net/manual/en/language.namespaces.php
 - http://daylerees.com/codebright/the-primers
 - http://id-laravel.com/post/mengenal-namespace-menjelajah-milyaran-galaksi
 - https://getcomposer.org/doc/01-basic-usage.md#autoloading
+- http://beau.io/talks/2014/03/15/managing-dependencies-with-composer-midwest-php-2014/
 
 ## Classes & Objects
 ### Point
@@ -57,30 +59,34 @@
 - how
 
 ### Referensi
-- http://www.sitepoint.com/introspection-and-reflection-in-php/
+- http://alexrussell.me.uk/laravel-cheat-sheet/
 - https://leanpub.com/implementinglaravel/read
-- http://www.sitepoint.com/dependency-injection-laravels-ioc/
 - http://culttt.com/2014/03/24/exploring-laravels-ioc-container/
-- http://stackoverflow.com/questions/18562752/understanding-ioc-containers-and-dependency-injection
 - https://code.tutsplus.com/tutorials/dependency-injection-huh--net-26903
-- http://stackoverflow.com/questions/24484782/what-is-laravel-ioc-container-in-simple-words
 - https://medium.com/laravel-indonesia/memahami-ioc-container-di-laravel-f19bec82b22
 - https://medium.com/rebuilding-laravel/rebuilding-laravel-part-2-application-40b26928e874
+- http://stackoverflow.com/questions/24484782/what-is-laravel-ioc-container-in-simple-words
+
+- http://www.sitepoint.com/introspection-and-reflection-in-php/
+- http://www.sitepoint.com/dependency-injection-laravels-ioc/
+- http://stackoverflow.com/questions/18562752/understanding-ioc-containers-and-dependency-injection
+- http://stackoverflow.com/questions/3058/what-is-inversion-of-control
+
+- http://programmers.stackexchange.com/questions/205681/why-is-inversion-of-control-named-that-way
 - http://martinfowler.com/bliki/InversionOfControl.html
 - http://www.martinfowler.com/articles/injection.html
-- http://stackoverflow.com/questions/3058/what-is-inversion-of-control
-- http://programmers.stackexchange.com/questions/205681/why-is-inversion-of-control-named-that-way
 = http://en.wikipedia.org/wiki/Dependency_injection
 - http://en.wikipedia.org/wiki/Inversion_of_control
 - http://en.wikipedia.org/wiki/Hollywood_principle
 - http://chrismdp.com/2013/01/dependency-injection-not-ioc/
+
 - http://weblog.jamisbuck.org/2008/11/9/legos-play-doh-and-programming
 - http://fabiokung.com/2010/05/06/ruby-and-dependency-injection-in-a-dynamic-world/
 
- 
+
 ## Coding Style & Documentation
 
 ### Referensi
 - https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 - https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
-- http://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html 
+- http://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html
